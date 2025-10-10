@@ -4,6 +4,7 @@
         <group name="advanced" numcolumns="12">
             <column name="bootema" numcolumns="3" order="121">
                 <widget type="select" fieldname="bootema" icon="fa-solid fa-spray-can">
+                    <values title="Brite">brite</values>
                     <values title="Cerulean">cerulean</values>
                     <values title="Cosmo">cosmo</values>
                     <values title="Cyborg">cyborg</values>
@@ -15,7 +16,9 @@
                     <values title="Lux">lux</values>
                     <values title="Materia">materia</values>
                     <values title="Minty">minty</values>
+                    <values title="Morph">morph</values>
                     <values title="Pulse">pulse</values>
+                    <values title="Quartz">quartz</values>
                     <values title="Sandstone">sandstone</values>
                     <values title="Simplex">simplex</values>
                     <values title="Sketchy">sketchy</values>
@@ -24,7 +27,9 @@
                     <values title="Spacelab">spacelab</values>
                     <values title="Superhero">superhero</values>
                     <values title="United">united</values>
+                    <values title="Vapor">vapor</values>
                     <values title="Yeti">yeti</values>
+                    <values title="Zephyr">zephyr</values>
                 </widget>
             </column>
             <column name="css-style" numcolumns="12" order="200">

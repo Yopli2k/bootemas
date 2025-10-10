@@ -1,5 +1,5 @@
 # Bootemas
-Añade 21 temas nuevos a FacturaScripts. Originales de bootswatch.com
+Añade 26 temas nuevos a FacturaScripts. Originales de bootswatch.com
 
 ## Web / documentación / soporte
 - https://facturascripts.com/plugins/bootemas
